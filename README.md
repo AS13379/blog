@@ -4,4 +4,5 @@
 [@char894](t.me/char894)
 # 目录
 ## 2021年
-[09-17-使用使用 SagerNet 给节点套 Cloudflare WARP，解锁流媒体。](https://github.com/Charlie894/blog/blob/main/SagerNet-Unblock-2021-09-17.md)
+[09-17-使用 SagerNet 给节点套 Cloudflare WARP，解锁流媒体。](https://github.com/Charlie894/blog/blob/main/SagerNet-Unblock-2021-09-17.md)
+[09-25-亚马逊32v-EC2开机免封号教程,适用于月抛，半年抛IDC](https://github.com/Charlie894/blog/blob/main/EC2-Sep.md)
