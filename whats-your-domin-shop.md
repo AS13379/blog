@@ -5,8 +5,15 @@
 #### 目前我知道的专注于提供域名的，有以下几个：
 #### 1.[namesilo](https://www.namesilo.com)
 #### 2.[name.com](https://www.name.com)
+#### 3.[Cloudflare](https://www.cloudflare.com/zh-cn/products/registrar/)
+### 感觉没有买国外意义的国外域名注册商：
+#### (godaddy)[https://godaddy.com]
+
 ### 国内的[***技术小白/英语不好/正常网站***]
 #### 专注于提供域名的...基本没有，介绍几个大王
 #### 1.[腾讯云-DNSPOD](https://dnspod.cn)
 #### 2.[阿里云-万网](https://wanwang.aliyun.com)
 #### 3.[华为云](https://www.huaweicloud.com/product/domain.html)
+#### 4.[网易-新网](https://xinnet.com)
+#### 没听说过的
+#### 5.[35互联](https://www.35.com/domain/)
