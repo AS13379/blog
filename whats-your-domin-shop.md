@@ -7,7 +7,7 @@
 #### 2.[name.com](https://www.name.com)
 #### 3.[Cloudflare](https://www.cloudflare.com/zh-cn/products/registrar/)
 ### 感觉没有买国外意义的国外域名注册商：
-#### (godaddy)[https://godaddy.com]
+#### 4.[godaddy](https://godaddy.com)
 
 ### 国内的[***技术小白/英语不好/正常网站***]
 #### 专注于提供域名的...基本没有，介绍几个大王
